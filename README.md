@@ -1,6 +1,6 @@
 # covid-19-india-dashboard
 Current covid 19 stats in India and its states
-The completely responsive single-page webapp is made using 
+The completely responsive single-page webapp is made using: 
                                                *React JS
                                                *Axios for http requests
                                                *Chart JS for charts
