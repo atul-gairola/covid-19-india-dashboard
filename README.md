@@ -7,6 +7,6 @@ The completely responsive single-page webapp is made using:
 * Material UI components
 * covid19-india API (https://documenter.getpostman.com/view/10724784/SzYXXKmA?version=latest)
 
-The designs for the site can be found on figma: 
+The designs for the site can be found on figma:   
 https://www.figma.com/file/vZYHhb5bYfWDN9xtPF4ujj/covid-dashboard?node-id=0%3A1
 
